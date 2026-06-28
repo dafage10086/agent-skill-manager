@@ -1,0 +1,7 @@
+interface:
+  display_name: "Auto Skill Installer / AI 技能自动安装器"
+  short_description: "Find and install missing AI agent skills."
+  default_prompt: "Use $auto-skill-installer to find and install the best missing skill for this task."
+
+policy:
+  allow_implicit_invocation: true
